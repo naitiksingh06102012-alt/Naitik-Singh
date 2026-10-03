@@ -1,0 +1,7 @@
+{
+  "name": "Patna Skin & Laser Clinic",
+  "description": "Premier dermatology, laser, and hair restoration clinic in Patna led by AIIMS & PMCH alumni dermatologists. Offering US-FDA approved laser treatments, acne scar subcision, melasma care, GFC hair therapy, and HydraFacial at Boring Road and Kankarbagh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
